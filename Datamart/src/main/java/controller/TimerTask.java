@@ -13,7 +13,6 @@ public class TimerTask {
             public void run() {
                 try {
                     new Controller().controller();
-                    System.out.println("hola");
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 } catch (SQLException e) {

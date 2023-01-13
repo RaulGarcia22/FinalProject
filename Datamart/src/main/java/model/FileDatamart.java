@@ -16,7 +16,7 @@ public class FileDatamart implements ReaderInterface {
 
 
     private void reader() throws IOException {
-        String uri = "C:/Users/Usuario/IdeaProjects/FinalProject/Datalake/datalake";
+        String uri = "Datalake/datalake";
         File directorio = new File(uri);
         File[] listaArchivos = directorio.listFiles();
         JSONArray jsonArray = null;

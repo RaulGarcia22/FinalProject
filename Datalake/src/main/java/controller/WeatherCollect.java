@@ -17,7 +17,7 @@ public class WeatherCollect {
     String url = "https://opendata.aemet.es/opendata/api/observacion/convencional/todas";
     public JSONArray filteredArray;
 
-    String apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJyYXVsbnVlejIyMkBnbWFpbC5jb20iLCJqdGkiOiIyYTg5NTQxMS1iNGU1LTQ1YmQtYTMwNC05NTkzMWY3ZTI1OTciLCJpc3MiOiJBRU1FVCIsImlhdCI6MTY3MjY3MzcxOSwidXNlcklkIjoiMmE4OTU0MTEtYjRlNS00NWJkLWEzMDQtOTU5MzFmN2UyNTk3Iiwicm9sZSI6IiJ9.es3lP9tB4jiJ_Gif8I5NSFXFQuvCe43u7gu7i9sn4QY";
+    String apiKey = "PONER SU APIKEY";
     String response;
 
     {
